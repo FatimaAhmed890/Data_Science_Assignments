@@ -1,4 +1,4 @@
-#This is a python implementation for the classic Hangman Game.
+# This is a python implementation for the classic Hangman Game.
 
 To play the game import the folder into your localmachine and simply run the command: 
 python run.py(for Windows users) or python3 run.py(for Linux/mac users) and enjoy playing :)
